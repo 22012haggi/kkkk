@@ -37,3 +37,6 @@ p {
     margin-right: 100px;
     margin-left: 100px;
 }
+nav {
+          text-decoration: none;
+}
