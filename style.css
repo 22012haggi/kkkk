@@ -40,3 +40,15 @@ p {
 nav {
           text-decoration: none;
 }
+table {
+        border-collapse: collapse;
+    border: 3px solid red;
+    justify-content: center;
+
+}
+tr {
+    padding: 10px;
+     border: 3px solid green;
+    justify-content: center;
+}   
+  
